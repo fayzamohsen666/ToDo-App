@@ -1,17 +1,16 @@
-# flutter_application_1
+📝 ToDo App (Flutter)
+A simple and clean ToDo Application built with Flutter.
+This app helps users manage their daily tasks easily and effectively.
 
-A new Flutter project.
+✨ Features
 
-## Getting Started
+➕ Add new tasks with title & details
+✏️ Edit existing tasks
+🗑️ Delete tasks
+✅ Mark tasks as completed
+📂 View completed tasks in a separate page
 
-This project is a starting point for a Flutter application.
+🛠️ Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# ToDo-App" 
+Flutter
+Dart
